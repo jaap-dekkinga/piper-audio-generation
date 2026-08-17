@@ -1,0 +1,7 @@
+Alice: Welcome to the demo. This script has two speakers.
+Bob: Right. Each speaker gets their own voice, chosen in the GUI.
+Alice: The output is a single MP3 file with a short pause between lines.
+Bob: You can adjust the pause length using the slider at the bottom.
+Alice: If a line is really long and wraps in your editor, that's fine.
+Bob: Any line without a name prefix is treated as a continuation of the previous speaker.
+Alice: Have fun.
