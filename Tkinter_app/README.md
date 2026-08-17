@@ -87,6 +87,26 @@ requirements.txt     # pip deps
 example_script.txt   # sample two-speaker dialogue
 voices/              # created on first run; put .onnx voice files here
 ```
+## Voices
+US English — most versatile for dialogue
+
+en_US-lessac-medium — clear neutral female (default choice)
+en_US-ryan-medium — natural warm male
+en_US-amy-medium — female, slightly softer than Lessac
+en_US-danny-low — casual male, faster to run
+en_US-kathleen-low — older-sounding female
+en_US-kristin-medium — brighter female
+en_US-joe-medium — deeper male
+en_US-libritts_r-medium — 900+ different speakers in one model (pick a --speaker index for huge variety)
+
+British English
+
+en_GB-alan-medium — male, BBC-ish
+en_GB-alba-medium — Scottish female
+en_GB-northern_english_male-medium — northern male accent
+en_GB-jenny_dioco-medium — clear female
+en_GB-southern_english_female-low — southern female accent
+
 
 ## Troubleshooting
 
